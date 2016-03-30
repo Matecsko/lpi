@@ -24,6 +24,7 @@ Praktické cvičenia
 * [Cvičenie 2](cv02) (Sudoku)
 * [Cvičenie 3](cv03) (formula)
 * [Cvičenie 4](cv04) (rodinka)
+* [Cvičenie 5](cv05) (toCnf)
 
 Bonusy
 ------
