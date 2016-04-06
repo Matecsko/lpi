@@ -25,6 +25,7 @@ Praktické cvičenia
 * [Cvičenie 3](cv03) (formula)
 * [Cvičenie 4](cv04) (rodinka)
 * [Cvičenie 5](cv05) (toCnf)
+* [Cvičenie 6](cv06) (Agatha)
 
 Bonusy
 ------
