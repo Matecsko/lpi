@@ -30,6 +30,7 @@ Bonusy
 ------
 
 * [Bonus 1](bonus01) (parsovanie formuly)
+* [Bonus 2](cv05#bonus) (efektívnejšie toCnf)
 
 Domáce úlohy
 ------------
