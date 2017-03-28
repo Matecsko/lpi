@@ -39,6 +39,8 @@ Domáce úlohy
   (výroková logika s implikáciou a spojkou <i>a nie</i>)
 * [Domáca úloha 2](du02)
   (labyrint a tvrdenia o vyplývaní)
+* [Domáca úloha 3](du03)
+  (výrobky a detektívka)
 
 Pravidlá pre praktické cvičenia a domáce úlohy
 ----------------------------------------------
