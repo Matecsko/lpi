@@ -3,7 +3,7 @@ Cvičenie 7
 
 **Riešenie odovzdávajte podľa
 [pokynov na konci tohoto zadania](#technické-detaily-riešenia)
-do utorka 11.4. 23:59:59.**
+do <del>utorka 11.4.</del> štvrtka 13.4. 23:59:59.**
 
 
 Súbory potrebné pre toto cvičenie si môžete stiahnuť ako jeden zip
